@@ -1,0 +1,6 @@
+stream lit
+nltk
+PorterStemmer
+LancasterStemmer
+SnowballStemmer
+pandas
